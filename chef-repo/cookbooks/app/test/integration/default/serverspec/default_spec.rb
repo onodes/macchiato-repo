@@ -6,5 +6,5 @@ describe 'app::default' do
   # http://serverspec.org/resource_types.html
   it "httpd service is running" do
     expect(service 'httpd').to be_running
-   end
+  end
 end
