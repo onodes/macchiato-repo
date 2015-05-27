@@ -8,3 +8,7 @@ describe 'app::default' do
     expect(service 'httpd').to be_running
   end
 end
+
+describe file('/var/www/html/index.html') do
+  it { should contain('Hello, World')}
+end
