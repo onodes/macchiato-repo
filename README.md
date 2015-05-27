@@ -1,4 +1,5 @@
 # macchiato-repo
 Mark Inokuchi - marki@quixey.com
+Jonathan Pauli- fatal.exception@gmail.com
 Todd Turner - todd@turnernet.org
-Daichi ONODERA - onodes@gmail.com
+Vani Raja - vani@webchic.net
